@@ -1,5 +1,5 @@
 {
-	"name"       : "scribu/scb-framework",
+	"name"       : "outlandish/scb-framework",
 	"description": "A set of useful classes for faster plugin development",
 	"keywords"   : ["wordpress"],
 	"homepage"   : "https://github.com/scribu/wp-scb-framework",
@@ -8,12 +8,16 @@
 		{
 			"name"    : "Cristi Burcă",
 			"homepage": "http://scribu.net/"
+		},
+		{
+			"name"    : "Outlandish Co-operative",
+			"homepage": "https://outlandish.com/"
 		}
 	],
 	"support"    : {
-		"issues": "https://github.com/scribu/wp-scb-framework/issues",
-		"source": "https://github.com/scribu/wp-scb-framework",
-		"wiki": "https://github.com/scribu/wp-scb-framework/wiki"
+		"issues": "https://github.com/outlandishideas/wp-scb-framework/issues",
+		"source": "https://github.com/outlandishideas/wp-scb-framework",
+		"wiki": "https://github.com/outlandishideas/wp-scb-framework/wiki"
 	},
 	"autoload"   : {
 		"classmap": ["."],
