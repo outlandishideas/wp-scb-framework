@@ -4,6 +4,7 @@
 	"keywords"   : ["wordpress"],
 	"homepage"   : "https://github.com/scribu/wp-scb-framework",
 	"license"    : "GPL-3.0+",
+	"version"    : "1.0",
 	"authors"    : [
 		{
 			"name"    : "Cristi Burcă",
